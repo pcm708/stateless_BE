@@ -1,0 +1,25 @@
+{
+  "name": "tinder-application_node_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@ngneat/falso": "^7.2.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.1",
+    "faker": "^5.5.3",
+    "jsonwebtoken": "^9.0.2",
+    "kafka-node": "^5.0.0",
+    "kafkajs": "^2.2.4",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.3"
+  }
+}
